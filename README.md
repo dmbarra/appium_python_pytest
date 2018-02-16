@@ -1,0 +1,1 @@
+py.test tests/click_...py -v
